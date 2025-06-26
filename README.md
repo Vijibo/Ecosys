@@ -27,5 +27,5 @@ Assurez-vous d’avoir `gcc` et `make` installés sur votre système.
 
 1. Ouvrez un terminal dans le dossier `ecosys`.
 2. Exécutez la commande : make
-3. Une fois compilé : ./test_ecosys
+3. Une fois compilé : ./ecosys
 
